@@ -1,1 +1,1 @@
-# Deep-Learning-Specialization-Assignments
+# Deep-Learning-Specialization
